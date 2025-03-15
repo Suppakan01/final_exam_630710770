@@ -40,7 +40,7 @@ class MyProfile extends StatelessWidget {
             ),
             Text(
               position,
-              style: const TextStyle(fontSize: 14, color: Colors.grey),
+              style: const TextStyle(fontSize: 14, color: Colors.blueGrey),
             ),
             const SizedBox(height: 5),
             Row(
