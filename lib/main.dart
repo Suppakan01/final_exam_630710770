@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         phoneNumber: "065-xxx-xxxx",
         email: "khaikong_s@silpakorn.edu",
         imageUrl:
-            "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187.jpg?w=1436&h=958",
+            "https://ktla.com/wp-content/uploads/sites/4/2022/07/Cat.jpg?w=960&h=540&crop=1",
       ),
     );
   }
